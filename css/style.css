@@ -1,0 +1,46 @@
+body {
+    background-color: #08161e;
+    font-family: 'Courier New', Courier, monospace;
+    color: fuchsia;  
+}
+.nav_bar {
+    font-size: 30px;
+    font-weight: bold;
+}
+.container {
+    margin-top: 30px;
+}
+.row {
+}
+.col-8 {
+}
+.col-4 {
+}
+.col-3.nav_logo {
+}
+.col-9 {
+}
+.nav_text {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+.img_size {
+}
+.title_photo {
+    text-align: center center;
+}
+
+.my_photo {
+    background: url(../image/y.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 187px;
+    height: 353px;
+}
+
+.nav_logo {
+    background: url(../image/logo.png) no-repeat center center;
+    background-size: 100%;
+    width: 74px;
+    height: 82px;
+}
